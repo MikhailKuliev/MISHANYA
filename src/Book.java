@@ -1,5 +1,3 @@
-package main.java;
-
 public class Book {
     private String title;
     private String author;
