@@ -13,7 +13,7 @@ public class Main {
         BookAction action = new BookAction() {
             @Override
             public void performAction(Book book) {
-                System.out.println("Выполнения действий : " + book.getInfo() );
+                System.out.println("Выполнения действий: " + book.getInfo() );
 
             }
         };

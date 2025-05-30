@@ -9,7 +9,7 @@ class LibraryMember {
     }
 
     public String getMemberInfo() {
-        return " Название : " + name + ", Id: " + MembershipId;
+        return " Название : " + name + ", ID: " + MembershipId;
 
     }
 }
